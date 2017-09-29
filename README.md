@@ -8,6 +8,7 @@
 
 #目录结构
 
+``` xml
 Unity-MeshCombine
 |---Assets              
 |  |---Artwork 
@@ -19,7 +20,8 @@ Unity-MeshCombine
 |  |  |  |---MeshCombine.cs // Mesh合并
 |  |  |  |---MaterialDivide.cs // Mesh拆分
 |  |---Scene        
-|---ProjectSettings      
+|---ProjectSettings 
+```
 
 #如何使用
 
