@@ -1,10 +1,11 @@
 #### Unity-MeshCombine
+====
 
 最近项目上线需要优化性能，因为战斗中场景都是很多小的预设拼出来的，在Unity中勾选了静态合并，但是用显卡绘制工具查看在真机上DC还是比较高，所以就写了下面的工具给美术同学用于合并相同材质的Mesh信息；
 
 > 关于我，欢迎关注  
-  微信：[macwink]()
-  我的主页(https://stoneus.cn)  
+<br>微信：[macwink]()</br>
+<br>我的主页(https://stoneus.cn)</br>
 
 #目录结构
 
